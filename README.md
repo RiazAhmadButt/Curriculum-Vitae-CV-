@@ -1,2 +1,2 @@
 # Curriculum-Vitae-CV-
-This is cv website using HTML and CSS.
+it is a cv website that was developed by using HTML and CSS
